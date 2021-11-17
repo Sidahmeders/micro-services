@@ -19,7 +19,3 @@ services:
         image: nodeapp
         environment:
             - APPID=3333
-    nodeapp4:
-        image: nodeapp
-        environment:
-            - APPID=4444
